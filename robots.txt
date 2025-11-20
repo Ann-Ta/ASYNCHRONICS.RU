@@ -1,0 +1,6 @@
+# Разрешаем индексирование всем поисковым системам
+User-agent: *
+Disallow:
+
+# Указываем карту сайта, если она есть
+Sitemap: https://asynchronics.ru/sitemap.xml
